@@ -16,20 +16,22 @@ ul li{
 
  border: 2px solid #333333;
   float: right;
-  transition: transform .2s; 
+  transition: transform .5s; 
   width: 100%;
+  border-radius: 50%;
 
 
 }
 .img-container{
   width: 100%;
+
 }
 
 
 img:hover {
   cursor: pointer;
 
-  transform: scale(1.2); 
+  transform: scale(1.10); 
 }
 /******************************************************couleur navbar et effet**************************/
 .navbar{
