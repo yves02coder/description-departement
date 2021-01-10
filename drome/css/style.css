@@ -6,6 +6,10 @@ html{
 ul li{
   list-style-type: none;
 }
+.tabs{
+text-align: center;
+ border-bottom: 100px;
+}
 /**********************************LOGO***************************************/
 .image{
 	float: left;
